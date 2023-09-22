@@ -2,8 +2,6 @@ import {
   initialStage,
   stageOne,
   stageTwo,
-  stageThree,
-  stageFour,
   finalStage,
 } from './stages/index.js'
 
@@ -21,14 +19,6 @@ export const stages = [
   {
     descricao: 'Address',
     stage: stageTwo,
-  },
-  {
-    descricao: 'Bill',
-    stage: stageThree,
-  },
-  {
-    descricao: 'New Order',
-    stage: stageFour,
   },
   {
     descricao: 'Assistent',
