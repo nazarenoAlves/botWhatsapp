@@ -65,6 +65,7 @@ const options = {
 
     return {
       message,
+      nextStage: STAGES.INICIAL,
     }
   },
 }

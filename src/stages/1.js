@@ -53,7 +53,7 @@ const options = {
 
     return {
       message,
-      // nextStage: STAGES.FALAR_COM_ATENDENTE,
+      nextStage: STAGES.INICIAL,
     }
   }
 }

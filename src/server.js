@@ -5,7 +5,7 @@ const main = async () => {
   try {
     const venombot = await VenomBot.getInstance().init({
       session: 'Grupo Câmaras e Pneus',
-      headless: true,
+      headless: "new",
       useChrome: false,
     })
 
