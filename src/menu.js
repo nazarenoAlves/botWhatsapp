@@ -9,6 +9,6 @@ export const menu = {
     description: 'CHAPADINHA',
   },
   4: {
-    description: 'MATO-GROSSO',
+    description: 'MATO-GROSSO/TANGARÁ',
   },
 }

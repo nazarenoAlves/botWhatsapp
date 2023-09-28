@@ -5,10 +5,10 @@ import { STAGES } from './index.js'
 
 // Mapeamento de filiais para contatos
 const filialContacts = {
-  1: ['559884569825@c.us'], // SÃO-LUÍS/BR135
-  2: ['559888813451@c.us'], // SÃO-LUÍS/POSTO-VALLEN
-  3: ['555555555555@c.us'], // CHAPADINHA
-  4: ['555555555555@c.us'], // MATO-GROSSO
+  1: ['559891204783@c.us','559881946623@c.us','559887363733@c.us'], // SÃO-LUÍS/BR135
+  2: ['559891036827@c.us','559887395502@c.us'], // SÃO-LUÍS/POSTO-VALLEN
+  3: ['559891841189@c.us','559892231346@c.us'], // CHAPADINHA
+  4: ['556593616568@c.us','556596193334@c.us','556599619673@c.us'], // MATO-GROSSO
 };
 
 export const stageTwo = {

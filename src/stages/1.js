@@ -47,9 +47,9 @@ const options = {
   0: () => {
     let message = 'ATENDIMENTO FINALIZADO'
 
-    Object.keys(menu).forEach((value) => {
-      message += `${numbers[value]} - _${menu[value].description}_ \n`
-    })
+    // Object.keys(menu).forEach((value) => {
+    //   message += `${numbers[value]} - _${menu[value].description}_ \n`
+    // })
 
     return {
       message,
