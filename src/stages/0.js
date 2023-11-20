@@ -14,7 +14,6 @@ export const initialStage = {
       *Posso te ajudar?* 🙋‍♂️
       -----------------------------------
       1️⃣ - GOSTARIA DE FALAR COM UM VENDEDOR
-      2️⃣ - QUERO COMPRAR DIRETAMENTE NO WHATSAPP
       0️⃣ - FINALIZAR
     `
     await venombot.sendText({ to: from, message })
